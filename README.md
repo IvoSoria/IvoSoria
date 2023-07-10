@@ -14,7 +14,7 @@
 <div align="center" style="margin: 13px">
 <h4><strong>Connect with me:</strong></h4>
 <p>
-<a href="https://www.linkedin.com/in/IvoSoria/" target="blank">
+<a href="https://www.linkedin.com/in/IvoSoria/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
 </a>
 <a href="mailto:ivansoria1995@gmail.com" target="blank">
@@ -188,7 +188,7 @@ Tech Utils:
 # 📫 Contact Me:
 
 <p>
-<a href="https://www.linkedin.com/in/IvoSoria/" target="blank">
+<a href="https://www.linkedin.com/in/IvoSoria/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
 </a>
 <a href="mailto:ivansoria1995@gmail.com" target="blank">
