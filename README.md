@@ -14,8 +14,11 @@
 <div align="center" style="margin: 13px">
 <h4><strong>Connect with me:</strong></h4>
 <p>
-<a href="https://www.linkedin.com/in/maria-virginia-juarez/" target="blank">
+<a href="https://www.linkedin.com/in/IvoSoria/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/IvoSoria/" target="blank">
+<img align="center" src="https://icons8.com/icon/ut6gQeo5pNqf/microsoft-outlook-2019" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
 </a>
 </p>
 </div>
@@ -43,16 +46,20 @@
 <!-- Tailwind --> 
 <a href="https://www.tailwindcss.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /></a> 
 </p>
-
-<h4 align="center"><strong>And also learning:</strong> React Native - Angular - Python</h4>
+<!-- 
+<h4 align="center"><strong>And also learning:</strong> React Native - Angular - Python</h4> -->
 
 <br/> 
 
 
 # 📊 GitHub Stats:
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=IvoSoria&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvoSoria&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoSoria&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ---
+</div>
+
+<!--VISITAS DE USUARIOS ---
 [![](https://visitcount.itsvg.in/api?id=IvoSoria&icon=0&color=1)](https://visitcount.itsvg.in) -->
