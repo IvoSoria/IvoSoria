@@ -18,7 +18,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/IvoSoria/" target="blank">
-<img align="center" src="https://icons8.com/icon/ut6gQeo5pNqf/microsoft-outlook-2019" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
 </a>
 </p>
 </div>
