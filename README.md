@@ -70,8 +70,10 @@
 ~~~
 📌 Final group project of Bootcamp Henry.
 
-Developer app for staying updated with tech news, engaging with the community, and sharing inquiries or discoveries with fellow developers.
-Additionally, you can search for job opportunities and apply as desired.
+Developer app allows you to:
+Stay updated with the latest tech news.
+Interact with the community through the forum.
+Search for job opportunities and apply as desired.
 
 This project includes:
 ✔ Localstorage
@@ -93,7 +95,7 @@ Tech Utils:
 🔹 Database: PostgreSQL
 ~~~
 
-
+<!-- 
 <h2><center>Home --- Login</center></h2>
 <p align="center">
 <img align="center" width="400px" src='./PF_images/1.png' />
@@ -112,7 +114,7 @@ Tech Utils:
 <h2><center>Responsive Design</center></h2>
 <p align="center">
 <img align="center" width="400px" src='./PF_images/7.png' />
-</p>
+</p> -->
 
 
 ## 🎮 Videogames App 
@@ -137,7 +139,7 @@ Tech Utils:
 
 ~~~
 
-
+<!-- 
 <p align="center">
 <img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
 <img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
@@ -146,7 +148,7 @@ Tech Utils:
 <img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
 <img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
 </p>
-
+ -->
 
 ## 🎬 Rick And Morty App 
 
@@ -171,7 +173,7 @@ Tech Utils:
 🔹 Database: PostgreSQL.
 
 ~~~
-
+<!-- 
 
 <p align="center">
 <img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
@@ -180,13 +182,11 @@ Tech Utils:
 <p align="center">
 <img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
 <img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
-</p>
+</p> -->
 
 
 # 📫 CONTACT ME
 
-
-**Email:** virginia.juarez1996@gmail.com
 <p>
 <a href="https://www.linkedin.com/in/maria-virginia-juarez/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-virginia-juarez/" height="30" width="40" />
