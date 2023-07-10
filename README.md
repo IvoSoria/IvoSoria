@@ -20,7 +20,7 @@
 </a>
 
 <a href="mailto:ivansoria1995@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt= Gmail height="30" width="40" />
+<img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt= Gmail height="30" />
 </a>
 </p>
 </div>
