@@ -1,5 +1,14 @@
+<!-- ### 
+<div align="center">
+<img align="center" width="900px" style="width: 100%" src="./Images/Banner.gif" alt="banner"/>
+</div> -->
+
 # 💫 About Me:
-Soy Full Stack Developer 👨🏻‍💻 con formación docente y experiencia en liderazgo como responsable de hogar de personas con discapacidad. 🧑🏻‍🏫<br>Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades en el manejo de grupos, la organización, el trabajo en equipo, la escucha activa y la atención a las necesidades individuales. <br><br>Soy una persona en constante crecimiento personal y profesional 📈 , curioso, perseverante y capaz de resolver desafíos de manera responsable y con dedicación.
+<div>
+<h3 align="center"><strong>Full Stack Developer 👨🏻‍💻 con formación docente y experiencia en liderazgo como responsable de hogar de personas con discapacidad. 🧑🏻‍🏫</strong></h3>
+<h4 align="center">Soy una persona en constante crecimiento personal y profesional 📈 , responsable, perseverante y capaz de resolver nuevos desafíos.</h4>
+<h4 align="center">Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades en el manejo de grupos, la organización, el trabajo en equipo, la escucha activa y la atención a las necesidades individuales.</h4>
+</div>
 
 
 ## 🌐 Socials:
