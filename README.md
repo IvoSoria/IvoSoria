@@ -185,11 +185,11 @@ Tech Utils:
 </p> -->
 
 
-# 📫 CONTACT ME
+# 📫 Contact Me:
 
 <p>
-<a href="https://www.linkedin.com/in/maria-virginia-juarez/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-virginia-juarez/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/IvoSoria/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
 </a>
 <a href="mailto:ivansoria1995@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt= Gmail height="40" />
