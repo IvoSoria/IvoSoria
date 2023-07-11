@@ -12,22 +12,31 @@
 
 
 <div align="center" style="margin: 13px">
-<h4><strong>Connect with me:</strong></h4>
-<p>
-<a href="https://www.linkedin.com/in/IvoSoria/" target="_blank">
-<img align="center" src="https://img.icons8.com/fluency/48/linkedin.png"  alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
-</a>
-
-<a href="mailto:ivansoria1995@gmail.com" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt= Gmail height="40" />
-</a>
-
-<a href="https://wa.link/urpkht" target="blank">
-<img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png"  alt= WhatsApp height="40" />
-</a>
-
-</p>
+  <h4><strong>Connect with me:</strong></h4>
+  <p>
+    <a href="https://www.linkedin.com/in/IvoSoria/" target="_blank">
+      <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/IvoSoria/" height="40" class="social-icon" />
+    </a>
+    <a href="mailto:ivansoria1995@gmail.com" target="blank">
+      <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="40" class="social-icon" />
+    </a>
+    <a href="https://wa.link/urpkht" target="blank">
+      <img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="40" class="social-icon" />
+    </a>
+  </p>
 </div>
+
+<style>
+.social-icon {
+  transition: all 0.3s ease-in-out;
+}
+
+.social-icon:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+</style>
+
 
 # 💻 Tech Stack:
 <p align="center" style="margin-top: 8px"> 
