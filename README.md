@@ -15,12 +15,17 @@
 <h4><strong>Connect with me:</strong></h4>
 <p>
 <a href="https://www.linkedin.com/in/IvoSoria/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
+<img align="center" src="https://img.icons8.com/fluency/48/linkedin.png"  alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
 </a>
 
 <a href="mailto:ivansoria1995@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt= Gmail height="40" />
 </a>
+
+<a href="https://wa.link/urpkht" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png"  alt= WhatsApp height="40" />
+</a>
+
 </p>
 </div>
 
@@ -190,10 +195,14 @@ Tech Utils:
 
 <p>
 <a href="https://www.linkedin.com/in/IvoSoria/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/IvoSoria/" height="30" width="40" />
+<img align="center" src="https://img.icons8.com/fluency/48/linkedin.png"  alt="https://www.linkedin.com/in/IvoSoria/" height="40" />
 </a>
 
 <a href="mailto:ivansoria1995@gmail.com" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt= Gmail height="40" />
+</a>
+
+<a href="https://wa.link/urpkht" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png"  alt= WhatsApp height="40" />
 </a>
 </p>
