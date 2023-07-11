@@ -154,16 +154,21 @@ Tech Utils:
 
 ~~~
 
-<!-- 
+<h2><center>Landing --- Home</center></h2>
 <p align="center">
-<img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
-<img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
+<img align="center" width="400px" src='./PI_images/Landing.png' />
+<img align="center" width="400px" src='./PI_images/Home.png' />
 </p>
+<h2><center>Filter --- Create</center></h2>
 <p align="center">
-<img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
-<img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
+<img align="center" width="400px" src='./PI_images/Filter.png' />
+<img align="center" width="400px" src='./PI_images/Create.png' />
 </p>
- -->
+<h2><center> My videogames --- Detail</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./PI_images/MyCreate.png' />
+<img align="center" width="400px" src='./PI_images/Detail.png' />
+</p>
 
 ## 🎬 Rick And Morty App 
 
