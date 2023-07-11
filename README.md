@@ -30,25 +30,25 @@
 # 💻 Tech Stack:
 <p align="center" style="margin-top: 8px"> 
 <!-- html -->
-<a href="https://www.w3.org/html/" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/> </a> 
 <!-- css -->
-<a href="https://www.w3schools.com/css/" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/> </a> 
 <!-- js -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/> </a>  
 <!-- react -->
-<a href="https://reactjs.org/" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> </a> 
 <!-- redux -->
-<a href="https://redux.js.org" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="60"/> </a> 
 <!-- nodejs -->
-<a href="https://nodejs.org" target="_blank" style="margin: 3px"> <img width="40" height="40" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> </a> 
+<a href="https://nodejs.org" target="_blank" style="margin: 3px"> <img height="60" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> </a> 
 <!-- express -->
-<a href="https://expressjs.com" target="_blank" style="margin: 3px"> <img src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" style="margin: 3px"> <img src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" alt="express" height="60"/> </a> 
 <!-- postressql -->
-<a href="https://www.postgresql.org" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" style="margin: 3px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/> </a> 
 <!-- materialUI -->
-<a href="https://mui.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="40" height="40" /></a> 
+<a href="https://mui.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="60" /></a> 
 <!-- Tailwind --> 
-<a href="https://www.tailwindcss.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /></a> 
+<a href="https://www.tailwindcss.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" /></a> 
 </p>
 <!-- 
 <h4 align="center"><strong>And also learning:</strong> React Native - Angular - Python</h4> -->
