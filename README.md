@@ -30,25 +30,25 @@
 # 💻 Tech Stack:
 <p align="center" style="margin-top: 8px"> 
 <!-- html -->
-<a href="https://www.w3.org/html/" target="_blank" style="margin-right: 20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/> </a> 
 <!-- css -->
-<a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/> </a> 
 <!-- js -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/> </a>  
 <!-- react -->
-<a href="https://reactjs.org/" target="_blank" style="margin-right: 20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> </a> 
+<a href="https://reactjs.org/" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/> </a> 
 <!-- redux -->
-<a href="https://redux.js.org" target="_blank" style="margin-right: 20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="60"/> </a> 
+<a href="https://redux.js.org" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="60"/> </a> 
 <!-- nodejs -->
-<a href="https://nodejs.org" target="_blank" style="margin-right: 20px"> <img height="60" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> </a> 
+<a href="https://nodejs.org" target="_blank" style="margin-right: 10px"> <img height="60" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> </a> 
 <!-- express -->
-<a href="https://expressjs.com" target="_blank" style="margin-right: 20px"> <img src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" alt="express" height="60"/> </a> 
+<a href="https://expressjs.com" target="_blank" style="margin-right: 10px"> <img src="https://img.icons8.com/ios/50/express-js.png" alt="express-js" alt="express" height="60"/> </a> 
 <!-- postressql -->
-<a href="https://www.postgresql.org" target="_blank" style="margin-right: 20px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" style="margin-right: 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/> </a> 
 <!-- materialUI -->
-<a href="https://mui.com/" target="_blank" style="margin-right: 20px"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="60" /></a> 
+<a href="https://mui.com/" target="_blank" style="margin-right: 10px"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="60" /></a> 
 <!-- Tailwind --> 
-<a href="https://www.tailwindcss.com/" target="_blank" style="margin-right: 20px"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" /></a> 
+<a href="https://www.tailwindcss.com/" target="_blank" style="margin-right: 10px"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" /></a> 
 </p>
 <!-- 
 <h4 align="center"><strong>And also learning:</strong> React Native - Angular - Python</h4> -->
@@ -99,26 +99,37 @@ Tech Utils:
 🔹 Database: PostgreSQL
 ~~~
 
-<!-- 
-<h2><center>Home --- Login</center></h2>
+
+<h2><center>Login --- Register</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF_images/1.png' />
-<img align="center" width="400px" src='./PF_images/5.png' />
+<img align="center" width="400px" src='./PF_images/Login.png' />
+<img align="center" width="400px" src='./PF_images/register.png' />
 </p>
-<h2><center>Booking --- Map</center></h2>
+<h2><center>Tech News --- Create News</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF_images/2.png' />
-<img align="center" width="400px" src='./PF_images/4.png' />  
+<img align="center" width="400px" src='./PF_images/TechNews.png' />
+<img align="center" width="400px" src='./PF_images/CreateNews.png' />  
 </p>
-<h2><center>Blog --- Dashboard</center></h2>
+<h2><center>Forum --- Modify or delete post</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF_images/3.png' />
-<img align="center" width="400px" src='./PF_images/6.png' />
+<img align="center" width="400px" src='./PF_images/Forum.png' />
+<img align="center" width="400px" src='./PF_images/CreatePost.png' />
 </p>
-<h2><center>Responsive Design</center></h2>
+<h2><center>Detail post --- Comments</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF_images/7.png' />
-</p> -->
+<img align="center" width="400px" src='./PF_images/DetailPost.png' />
+<img align="center" width="400px" src='./PF_images/CommentsPost.png' />
+</p>
+<h2><center>Jobs Offers --- Job Application</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./PF_images/JobsOfferce.png' />
+<img align="center" width="400px" src='./PF_images/Job.png' />
+</p>
+<h2><center>Dashboard (dark) --- Change the role</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./PF_images/Dashboard.png' />
+<img align="center" width="400px" src='./PF_images/Dash2.png' />
+</p>
 
 
 ## 🎮 Videogames App 
