@@ -6,7 +6,7 @@
 # 💫 About Me:
 <div>
 <h3 align="center"><strong>Full Stack Developer 👨🏻‍💻 con formación docente y experiencia en liderazgo como responsable de hogar de personas con discapacidad. 🧑🏻‍🏫</strong></h3>
-<h4 align="center">Soy una persona en constante crecimiento personal y profesional 📈 , responsable, perseverante y capaz de resolver nuevos desafíos.</h4>
+<h4 align="center">🙋🏻‍♂️ Soy una persona responsable, perseverante y curiosa; en el mundo del desarrollo web, nunca se deja de aprender, y eso es lo que me mantiene emocionado y en constante crecimiento.</h4>
 <h4 align="center">Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades en el manejo de grupos, la organización, el trabajo en equipo, la escucha activa y la atención a las necesidades individuales.</h4>
 </div>
 
